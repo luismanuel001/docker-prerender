@@ -16,7 +16,10 @@
     "type": "git",
     "url": "https://github.com/luismanuel001/docker-prerender.git"
   },
-  "author": "",
+  "author": {
+    "name": "Luis Manuel",
+    "url": "https://github.com/luismanuel001"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luismanuel001/docker-prerender/issues"
